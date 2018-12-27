@@ -2,7 +2,8 @@
     "require": {
         "google/apiclient": "^2.1",
         "symfony/console": " ^3.0",
-        "symfony/event-dispatcher": "^3.3"
+        "symfony/event-dispatcher": "^3.3",
+        "google/cloud-kms": "^0.4.3"
     },
     "autoload": {
         "files": [
